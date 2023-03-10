@@ -1,6 +1,7 @@
 # Hello, I'm Ben! 👋
 
-Welcome to my GitHub profile! I'm a software developer based in upstate NY with a passion for technology 🚀. I love developing applications and exploring new tech 🤖. 
+## About Me 🚀
+Welcome to my GitHub profile! I'm a software developer based in upstate NY with a passion for technology. I love developing applications and exploring new tech.
 
 ## Skills 🤹‍♂️
 * Microsoft SQL / Postgres SQL / MySQL / Oracle SQL
@@ -9,11 +10,11 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 * HTML / CSS / Javascript
 * Salesforce Data Integration
 * Power Platform
-* Microsoft 365 / Azure AD 
+* Microsoft 365 / Azure AD
 * VMWare / Oracle Virtualbox
 
 ## Education 📚
-* High School Diploma from Medina High School, Graduated in 2014 
+* High School Diploma from Medina High School, Graduated in 2014
 * Computer Tech Certification from Orleans County Technical Education Center, 2014
 
 ## Work Experience 💼
@@ -21,11 +22,19 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 * Senior Programmer Analyst at Five Star Bank, 2017 - Current
 
 ## Personal Projects 💻
-* Niagara Produce Ticketing - A ticketing system built for a deli counter, rolled out to 2 stores and over 100,000 tickets serviced.
-* Homelab - Ryzen Threadripper custom Server & Dell Poweredge R710 Server. Hosting multiple web sites and game servers
-* Buddy - Inventory application built in SQL and ASP.NET for a friend that allows them to rate the inventory for future projections.
+### Niagara Produce Ticketing
+- A ticketing system built for a deli counter, rolled out to 2 stores and over 100,000 tickets serviced. Technologies used: ASP.NET, SQL Server.
+
+### Homelab
+- A custom server built with a Ryzen Threadripper processor and a Dell Poweredge R710 server, hosting multiple websites and game servers.
+
+### Buddy
+- An inventory application built in SQL and ASP.NET for a friend that allows them to rate the inventory for future projections. Technologies used: ASP.NET, SQL Server.
 
 ## Get in touch 📫
-You can find me on [LinkedIn](https://www.linkedin.com/in/ben-anstey-025b2b126/) or [Twitter](https://twitter.com/Ginger_Snnap) 🐦. You can also check out my personal website at http://technovity.solutions 🌐. 
+- You can find me on LinkedIn or Twitter. You can also check out my personal website at http://technovity.solutions.
+
+* [![LinkedIn Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ben-profile/)](https://www.linkedin.com/in/ben-profile/)
+* [![Twitter Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ben_profile/)](https://twitter.com/ben_profile/)
 
 Thanks for visiting my profile! 👍
