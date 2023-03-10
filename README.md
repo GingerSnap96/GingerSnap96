@@ -12,6 +12,8 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 * Power Platform
 * Microsoft 365 / Azure AD
 * VMWare / Oracle Virtualbox
+* GitHub / Sourcegear Vault
+* Jira / Fogbugz / Smartsheet
 
 ## Education 📚
 * High School Diploma from Medina High School, Graduated in 2014
