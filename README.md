@@ -4,7 +4,7 @@
 Welcome to my GitHub profile! I'm a software developer based in upstate NY with a passion for technology. I love developing applications and exploring new tech.
 
 ## Skills 🤹‍♂️
-* Microsoft SQL / Postgres SQL / MySQL / Oracle SQL
+* Microsoft SQL / Postgre SQL / MySQL / Oracle SQL
 * SSIS / SSRS
 * C# (.NET Framework / .NET Core)
 * HTML / CSS / Javascript
