@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 ## Get in touch 📫
 - You can find me on LinkedIn or Twitter. You can also check out my personal website at http://technovity.solutions.
 
-* [![LinkedIn Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ben-profile/)](https://www.linkedin.com/in/ben-profile/)
-* [![Twitter Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ben_profile/)](https://twitter.com/ben_profile/)
+* [![LinkedIn Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ben-profile/)](https://www.linkedin.com/in/ben-anstey-025b2b126/)
+* [![Twitter Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ben_profile/)](https://twitter.com/Ginger_Snnap)
 
 Thanks for visiting my profile! 👍
