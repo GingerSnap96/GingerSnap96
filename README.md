@@ -40,3 +40,5 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 * [![Twitter Badge](https://img.shields.io/badge/-Ben-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ben_profile/)](https://twitter.com/Ginger_Snnap)
 
 Thanks for visiting my profile! 👍
+
+![Stats](https://github-readme-stats.vercel.app/api?username=GingerSnap96&theme=dark&show_icons=true)
