@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 ### Niagara Produce Ticketing
 - A ticketing system built for a deli counter, rolled out to 2 stores and over 100,000 tickets serviced. Technologies used: ASP.NET, SQL Server.
 
-### Twitch Get Channel Points
+### [Twitch Get Channel Points](https://github.com/GingerSnap96/TwitchGetChannelPoints)
 - A C# console application that retrieves and exports channel points data for followed Twitch channels to a csv. It uses the Twitch API to fetch user and channel information, perform OAuth authorization, and extract channel points information for the followed channels of a specified user.
 
 ### Homelab
