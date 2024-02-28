@@ -30,6 +30,9 @@ Welcome to my GitHub profile! I'm a software developer based in upstate NY with 
 ### [Twitch Get Channel Points](https://github.com/GingerSnap96/TwitchGetChannelPoints)
 - A C# console application that retrieves and exports channel points data for followed Twitch channels to a csv. It uses the Twitch API to fetch user and channel information, perform OAuth authorization, and extract channel points information for the followed channels of a specified user.
 
+### [Radarr to Plex Collections](https://github.com/GingerSnap96/radarr-to-plex-collections)
+- A C# console application that creates movie collections in Plex based on collections in Radarr. 
+
 ### Homelab
 - A custom server built with a Ryzen Threadripper processor and a Dell Poweredge R710 server, hosting multiple websites and game servers.
 
